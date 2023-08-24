@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/teleportor.png</file>
+        <file>image/小火车.png</file>
+        <file>clock_arrow.png</file>
+        <file>counter_arrow.png</file>
+        <file>target_arrow.png</file>
+        <file>image/bus.png</file>
+    </qresource>
+</RCC>
